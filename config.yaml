@@ -1,5 +1,4 @@
-filters:
-  - name: jimmy
+ - name: jimmy  anup
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
